@@ -1,6 +1,6 @@
 {
     "name": "com.ovfl.localization",
-    "version": "1.0.0",
+    "version": "1.0.1",
     "displayName": "OVFL Localization",
     "description": "Unity Localization 확장 패키지. TextMesh Pro 폰트를 언어별로 교체하는 LocalizeTMPFontEvent 컴포넌트를 제공합니다.",
     "unity": "6000.1",
